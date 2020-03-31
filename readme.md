@@ -1,6 +1,8 @@
 # Basecamp Keyboard Shortcuts
 
-Add enhanced keyboard shortcuts to the Basecamp web application
+Add enhanced keyboard shortcuts to the Basecamp web application. 
+
+Install at https://addons.mozilla.org/en-US/firefox/addon/basecamp-keyboard-shortcuts/
 
 <table>
   <tr>
