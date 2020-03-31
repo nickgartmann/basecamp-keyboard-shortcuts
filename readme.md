@@ -75,7 +75,7 @@ Add enhanced keyboard shortcuts to the Basecamp web application
 
 ## Building your own
 
-Follow (this guide to get your own Firefox API credentials)[https://addons-server.readthedocs.io/en/latest/topics/api/auth.html#access-credentials]. 
+Follow [this guide to get your own Firefox API credentials](https://addons-server.readthedocs.io/en/latest/topics/api/auth.html#access-credentials). 
 Then copy the `sample.env` file to a new file called `.env` and fill in your api key and secret. 
 Once you have your credentials set you can run `npm run sign` to get a signed version of the plugin for yourself and install it.
 
