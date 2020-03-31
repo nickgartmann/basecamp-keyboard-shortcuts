@@ -1,0 +1,6 @@
+article.reading.selected,
+.messages-table .messages-table__row.selected {
+  background-color: rgba(212,68,46,0.1);
+}
+
+

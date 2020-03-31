@@ -1,0 +1,16 @@
+{
+  "name": "bcx-keyboard-shortcuts",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "web-ext": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "web-ext build --overwrite-dest",
+    "sign": "source ./.env && web-ext sign --ignore-files package.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
